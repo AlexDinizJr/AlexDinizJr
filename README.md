@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Alex Diniz
+# 👋 Olá, eu sou Alex Diniz
 
 Sou **Desenvolvedor Web em início de carreira**, formado em **Ciência da Computação**, com foco em **desenvolvimento full stack**.  
 Tenho experiência em projetos acadêmicos e pessoais, atuando no frontend e backend, criação de APIs REST e aplicações web completas.
