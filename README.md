@@ -28,7 +28,6 @@ Atualmente busco minha **primeira oportunidade profissional** na área de tecnol
 **Outros**
 - Git e GitHub
 - Docker (básico)
-- Flutter (básico)
 
 ---
 
