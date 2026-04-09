@@ -23,7 +23,7 @@ Atualmente busco minha **primeira oportunidade profissional** na área de tecnol
 **Banco de Dados**
 - PostgreSQL
 - SQLite
-- Modelagem relacional
+- MongoDB
 
 **Outros**
 - Git e GitHub
