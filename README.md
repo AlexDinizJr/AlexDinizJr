@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Alex Diniz
 
-Sou **Desenvolvedor Web em início de carreira**, formado em **Ciência da Computação**, com foco em **desenvolvimento full stack**.  
-Tenho experiência em projetos acadêmicos e pessoais, atuando no frontend e backend, criação de APIs REST e aplicações web completas.
-
-Atualmente busco minha **primeira oportunidade profissional** na área de tecnologia, com grande motivação para aprender, evoluir tecnicamente e contribuir com a equipe.
+Desenvolvedor Fullstack formado em Ciência da Computação, com experiência em aplicações web utilizando
+React, Node.js e ASP.NET. Atua com APIs RESTful, bancos relacionais (PostgreSQL) e ORMs como Prisma e
+Entity Framework, aplicando boas práticas como Clean Architecture e DDD. Possui experiência com deploy em
+cloud, versionamento com Git e uso de ferramentas de IA no apoio ao desenvolvimento e análise de código.
 
 ---
 
